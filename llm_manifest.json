@@ -1,0 +1,24 @@
+﻿{
+  "models": [
+    {
+      "id": "gemma-4-e4b-it-q4-k-m",
+      "display_name": "Gemma 4 E4B Instruct Q4_K_M",
+      "filename": "gemma-4-E4B-it-Q4_K_M.gguf",
+      "download_url": "https://huggingface.co/subsudox/whisply-llm-models/resolve/main/gemma-4-E4B-it-Q4_K_M.gguf",
+      "sha256": "D264FB541E1FD4CB67FF710664CEF60A50AAA8AB6F7ACDF2BF5C76911DBD5B76",
+      "size_bytes": 5335285280,
+      "recommended": true,
+      "default_rank": 1
+    },
+    {
+      "id": "gemma-4-e2b-it-q4-k-m",
+      "display_name": "Gemma 4 E2B Instruct Q4_K_M",
+      "filename": "gemma-4-E2B-it-Q4_K_M.gguf",
+      "download_url": "https://huggingface.co/subsudox/whisply-llm-models/resolve/main/gemma-4-E2B-it-Q4_K_M.gguf",
+      "sha256": "406607E5FFFBFAEA5F7CE78CFC02EF8E8C4EB8618E365B6F6DA441C04E4D6066",
+      "size_bytes": 3427873312,
+      "recommended": false,
+      "default_rank": 2
+    }
+  ]
+}
